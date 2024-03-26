@@ -44,6 +44,7 @@ function exo6(a) {
   // Renvoyer vrai si a est supérieur egal à 10, sinon faux
 
   return;
+
 }
 
 // Exercice 7
@@ -86,7 +87,7 @@ function exo10() {
 function exo11() {
   // Créer un tableau contenant les valeurs 1, 2, 3, 4, 5
 
-  // Renvoyer la dernière valeur du tableau, ne pas utiliser un nombre
+  // Renvoyer la dernière valeur du tableau, peu importe sa taille
   return;
 }
 
