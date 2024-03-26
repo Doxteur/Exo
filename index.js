@@ -86,7 +86,7 @@ function exo10() {
 function exo11() {
   // Créer un tableau contenant les valeurs 1, 2, 3, 4, 5
 
-  // Renvoyer la dernière valeur du tableau, ne pas utiliser des []
+  // Renvoyer la dernière valeur du tableau, ne pas utiliser un nombre
   return;
 }
 
